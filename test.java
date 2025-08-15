@@ -5,5 +5,6 @@ public class test {
         int test2 = test * 10;
 
         System.out.println(test2);
+        System.out.println(test);
     }
 }
